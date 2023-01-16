@@ -1,0 +1,13 @@
+table {
+    width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+#btn1{
+    background-color: orangered;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    border-radius: 10px;
+}
